@@ -33,4 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravaniak&" alt="shravaniak" /></p>
 
-<p><a href="https://www.buymeacoffee.com/shravanik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shravanik" /></a></p><br><br>
+
+
