@@ -3,13 +3,9 @@
 
 <img  margin-bottom="14px" align="right" src="https://media0.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47cdnzrp3zsci1zii1pr4kf86rhgkrdf8mfvujjwpr&rid=giphy.gif&ct=g" alt="">
 
-- 🔭 I’m currently working on **Frontend development**
+- 🔭 I’m currently working as a **Software Engineer**
 
-- 🌱 I’m currently learning **backend development**
-
-- 👯 I’m looking to collaborate for **Hackthons**
-
-- 💬 Ask me about **HtML,CSS,JAvascript,React.js,react native.**
+- 💬 Ask me about **HtML,CSS,JAvascript,React.js,Next js,MERN stack,react native.**
 
 - 📫 How to reach me **Shravanikaware1@gmail.com**
 
