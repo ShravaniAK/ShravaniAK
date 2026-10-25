@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shravani Kaware</h1>
-<h3 align="center">A passionate developer from IIIT VADODARA</h3>
+<h3 align="center">Product Engineer , building things that ship !</h3>
 
 <img  margin-bottom="14px" align="right" src="https://media0.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47cdnzrp3zsci1zii1pr4kf86rhgkrdf8mfvujjwpr&rid=giphy.gif&ct=g" alt="">
-
-- 🔭 I’m currently working as a **Software Engineer**
-
-- 💬 Ask me about **HtML,CSS,JAvascript,React.js,Next js,MERN stack,react native.**
-
-- 📫 How to reach me **Shravanikaware1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
