@@ -19,9 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravaniak&show_icons=true&locale=en&layout=compact" alt="shravaniak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shravaniak&show_icons=true&locale=en" alt="shravaniak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravaniak&" alt="shravaniak" /></p>
 
 
 
